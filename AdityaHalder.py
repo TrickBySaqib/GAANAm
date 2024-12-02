@@ -1407,7 +1407,7 @@ async def check_bot_stats(client, message):
     except:
         pass
     photo = START_IMAGE_URL
-    caption = "**⏤͟͞ADITYA PLAYER STATS ༗**"
+    caption = "**ᯓ𓆰 𝚳᰻⃪᱂-乙 𝛂 𝛄‌֟፝᷍ 𝛂 𝛈 - 𓆪ꪾ⇢**"
     buttons = InlineKeyboardMarkup(
         [
             [
