@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/Aditya-Player"><img src="https://files.catbox.moe/6fd013.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
+<a href="https://github.com/AdityaHalder/Aditya-Player"><img src="https://graph.org/file/918101d0ad6b1207e6201.png" height="270" width="480" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
@@ -13,34 +13,50 @@ Aditya-Player is an advanced & powerful multi-featured Telegram vc streaming bot
 <h2>♨️ Host AdityaPlayer On VPS Server</h2>
 
 
-1. At First Copy & Paste Below Command.
+**1. At First Copy & Paste Below Command.**
+
+```apt update -y && apt install sudo -y && sudo apt install curl ffmpeg git nano python3-pip screen -y && cd && rm -rf AdityaPlayer && git clone https://github.com/AdityaHalder/AdityaPlayer && cd AdityaPlayer && pip3 install -r requirements.txt --force-reinstall && screen -R AdityaPlayer```
+
 
 **2. Now Run This Command & Add Your Variables.**
-nano Config.env``3. After That Save and Exit By Below Buttons.s.**
+
+```nano Config.env```
+
+
+**3. After That Save and Exit By Below Buttons.**
 
 ```ctrl + s```
 
-```ctrl + x``4. Now Run Your Bot in Background.d.**
+```ctrl + x```
 
-```python3 -m AdityaHalder``5. Now Exit From Screen & Close Your Vps & Enjoyoy**
 
-```ctrl + a + d`
+**4. Now Run Your Bot in Background.**
+
+```python3 -m AdityaHalder```
+
+
+**5. Now Exit From Screen & Close Your Vps & Enjoy**
+
+```ctrl + a + d```
 
 
 > [!IMPORTANT]
-> If you use Zayan-Music, it is important that you have proper knowledge about it. You should follow t@ll_Bot_Promotion_llll**](https://t.me/ll_Bot_Promotion_ll) to learn about Aditya-Player.
+> If you use Aditya-Player, it is important that you have proper knowledge about it. You should follow the [**`Documentation`**](https://t.me/adityaserver) to learn about Aditya-Player.
 
 <h2>🤝 Contributing</h2>
 <p title="Contributing">As Aditya-Player is an open-source project, all kinds of contributions are respectfully welcomed, and I also extend my sincere thanks to all contributors.</p>
 
 <h2>🌐 Updates & Support</h2>
-<p title="Support">You can join Aditya-Player's official Telegram channel and group on Telegram for any updates and support-related issues of Zayan-Music.</p>
+<p title="Support">You can join Aditya-Player's official Telegram channel and group on Telegram for any updates and support-related issues of Aditya-Player.</p>
 
-- Telegram Update@ll_Bot_Promotion_llll**](https://t.me/ll_Bot_Promotion_ll)
+- Telegram Updates: [**`@AdityaServer`**](https://t.me/adityaserver)
 
-- Telegram Suppor@ll_Bot_Promotion_llll**](https://t.me/ll_Bot_Promotion_ll)
+- Telegram Support: [**`@AdityaDiscus`**](https://t.me/adityadiscus)
 > [!WARNING]  
 > Verify the username of Aditya-Player's official Telegram channel and group. If you face a problem with a fake channel or group, Aditya-Player will not take responsibility for it, so I request that you verify Aditya-Player's official Telegram channel and group.
 
 
-<h2>📑 AcknowledgementPyrogram:- [**Pyrogram:**](https://github.com/pyrogram) All functions of Aditya-Player based on this mtprotoPy-TgCalls:[**Py-TgCalls:**](https://github.com/py-tgcalls) Telegram Streaming system of Aditya-Player based on this library.
+<h2>📑 Acknowledgement / Credits</h2>
+
+- [**`Pyrogram:`**](https://github.com/pyrogram) All functions of Aditya-Player based on this mtproto client library.
+- [**`Py-TgCalls:`**](https://github.com/py-tgcalls) Telegram Streaming system of Aditya-Player based on this library.
