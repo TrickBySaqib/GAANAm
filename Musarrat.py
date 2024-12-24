@@ -1398,11 +1398,11 @@ async def git_repo_link(client, message):
         [
             InlineKeyboardButton(
                 text="˹ sᴜᴘᴘᴏꝛᴛ ˼",
-                url="https://t.me/SYSTEM_BOT_UPDATE"
+                url="https://t.me/ll_Bot_Promotion_ll"
             ),
             InlineKeyboardButton(
                 text="˹ sᴏᴜꝛᴄᴇ ˼",
-                url="https://github.com/TEAM-ISTKHAR/MUSARRAT"
+                url="https://files.catbox.moe/gb0w90.mp4"
             ),
         ],
         [
